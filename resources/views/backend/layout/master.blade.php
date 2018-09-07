@@ -1,0 +1,5 @@
+@include('backend/layout/header')
+@include('backend/layout/nav')
+@include('backend/layout/sidebar')
+@include('backend/layout/body')
+@include('backend/layout/footer')
